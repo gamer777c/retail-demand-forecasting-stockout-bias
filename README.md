@@ -1,4 +1,4 @@
-# Retail Demand Forecasting with Stockout Bias Adjustment
+# Bias-Aware Retail Demand Forecasting
 
 ##  Project Overview
 Accurate demand forecasting is critical for inventory planning in retail.  
