@@ -1,0 +1,2 @@
+Naive MAE: 2.66
+Corrected MAE: 2.15
